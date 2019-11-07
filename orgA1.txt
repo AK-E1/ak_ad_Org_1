@@ -1,2 +1,7 @@
 This is file comment.
+12345
 Branch
+The new change for branch
+A
+D
+R
